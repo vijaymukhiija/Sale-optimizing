@@ -1,5 +1,5 @@
 # Sale-optimizing
-This project is based on Machine learning apriori algorithm in python.
+This project is based on Association rule of Machine learning using apriori algorithm in python.
 This code will predict what people will buy if they'd bought a certain product.For example in Shopping websites we have seen suggestion/people who bought also bought this...
 
 Steps:
